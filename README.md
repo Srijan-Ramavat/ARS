@@ -1,10 +1,4 @@
-# numpy_ARS
-A 150-lines python code for Augmented Random Search (https://arxiv.org/abs/1803.07055) with numpy.
-
-I am definitly impressed by the simplicity and the performance of this algorithm. 
-I did not parallelize computations, hence it could be quite less effective than authors' version (https://github.com/modestyachts/ARS).
-
-But this version should be easyer to handle. 
+# Argumented Random Search
 
 ## Quick results:
 
